@@ -2,13 +2,7 @@
 
 *Olga V. Fedorova<sup>a</sup>, Viktoria A. Borisova<sup>a</sup>, Mariia S. Kravchuk<sup>a</sup>, Varvara D. Petrova<sup>b</sup>, Fedor A. Sadkovskii<sup>a,c</sup>, Polina A. Semeniuk<sup>d</sup>, Taisiia E. Tyshchishina<sup>a</sup>, Sergey M. Shevelev<sup>a</sup>*
 
-<sup>a</sup> Lomonosov Moscow State University
-
-<sup>b</sup> Ludwig Maximilian University of Munich
-
-<sup>c</sup> Russian Academy of Sciences Institute of Linguistics
-
-<sup>d</sup> Independent researcher
+<sup>a</sup> Lomonosov Moscow State University, <sup>b</sup> Ludwig Maximilian University of Munich, <sup>c</sup> Russian Academy of Sciences Institute of Linguistics, <sup>d</sup> Independent researcher
 
 
 The data and code for two Russian lexical decision task experiments in visual and auditory modalities in one-button design
