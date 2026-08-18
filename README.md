@@ -56,3 +56,6 @@ The LDT-c design demonstrates a statistically supported simplifying effect, yiel
 
 - Correlation of mean RT z-scores (AM) and mean residiuals from regression of RT z-scores on word length (VM) in one-button design calculated from word onset
   ![alt text](graphics/4.6_visual_onset_correlation_eng.jpeg)
+
+---
+*This study is supported by Russian Science Foundation (grant # №25-18-00739 «Auditory processing disorders in autism: brain mechanisms, implications for speech function development, and innovative methods for deficit diagnosis»).*
